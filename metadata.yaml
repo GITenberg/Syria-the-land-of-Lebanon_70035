@@ -1,11 +1,16 @@
 _repo: Syria-the-land-of-Lebanon_70035
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70035-h/images/cover.jpg
 creator:
   author:
     agent_name: Leary, Lewis Gaston
     gutenberg_agent_id: '55553'
     url: http://www.gutenberg.org/2009/agents/55553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70035#Syria-the-land-of-Lebanon
 gutenberg_issued: '2023-02-13'
 identifiers:
   gutenberg: '70035'
